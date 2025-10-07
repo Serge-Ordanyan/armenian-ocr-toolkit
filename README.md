@@ -20,7 +20,7 @@ macOS (via Homebrew): brew install poppler
 Tesseract Armenian Language Packs: You must have both the standard and old Armenian models (hye.traineddata and arm.traineddata) installed in your Tesseract data directory.
 Installation and Setup
 Clone the Repository:
-git clone [https://github.com/your-username/armenian-ocr-toolkit.git](https://github.com/your-username/armenian-ocr-toolkit.git)
+git clone [https://github.com/Serge-Ordanyan/armenian-ocr-toolkit.git](https://github.com/Serge-Ordanyan/armenian-ocr-toolkit.git)
 cd armenian-ocr-toolkit
 
 Install Python Dependencies:
